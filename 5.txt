@@ -1,0 +1,12 @@
+Inspect the website HTML that you want to crawl
+Access URL of the website using code and download all the HTML contents on the page
+Format the downloaded content into a readable format
+Extract out useful information and save it into a structured format
+For information displayed on multiple pages of the website, you may need to repeat steps 2–4 to have the complete information.
+
+Approach:
+exploring the website
+deciphering the urls
+use developer tools for inspection
+scrape the website
+parse thee images and text using beautifulsoup
